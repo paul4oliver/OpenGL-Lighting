@@ -1,0 +1,13 @@
+﻿  pSource.cpp
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(264,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(365,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(366,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(370,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(371,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(373,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(374,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(382,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(392,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(428,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (2)\Pyramid\pSource.cpp(454,23): warning C4018: '<': signed/unsigned mismatch
+  Pyramid.vcxproj -> C:\Users\olive\OneDrive\Desktop\New folder (2)\Debug\Pyramid.exe
